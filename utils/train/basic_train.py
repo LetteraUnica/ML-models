@@ -22,7 +22,7 @@ def train_step(model, data, target, optimizer, criterion):
     loss.backward()
     optimizer.step()
 
-    return loss.item()
+    return loss.detach().item()
 
 
 def train_epoch(model, train_loader, criterion, device, optimizer, scheduler=None):
