@@ -1,0 +1,12 @@
+wandb_version: 1
+
+dropout:
+  value: 0
+hidden_size:
+  value: 1024
+learning_rate:
+  value: 0.001
+skip_mlps:
+  value: 1
+weight_decay:
+  value: 0

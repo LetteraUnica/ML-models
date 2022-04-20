@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-04-15T18:57:29.352304",
+    "startedAt": "2022-04-15T18:57:25.747032",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 780",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\loryc\\AppData\\Roaming\\jupyter\\runtime\\kernel-76726837-78ef-41ec-a225-39fe17d45cb2.json"
+    ],
+    "state": "running",
+    "program": "Desktop/ML-models/MLP_test.ipynb",
+    "root": "C:/Users/loryc/Desktop/ML-models",
+    "git": {
+        "remote": "https://github.com/LetteraUnica/ML-models.git",
+        "commit": "56cb787108724bb014079d14df598f78a3185d80"
+    },
+    "email": "lorenzocav97@gmail.com",
+    "host": "DESKTOP-JD96K0N",
+    "username": "loryc",
+    "executable": "D:\\Python\\Anaconda\\python.exe"
+}
